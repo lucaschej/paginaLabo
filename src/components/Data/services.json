@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name1": "CFD simulation",
+        "name2": "of heat and mass transfer.",
+        "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/cfd.png"
+    },
+    {
+        "id": 2,
+        "name1": "Multi-scale modeling",
+        "name2": "of materials, devices and structures",
+        "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/md.png"
+    },
+    {
+        "id": 3,
+        "name1": "HPC for optimising applications",
+        "name2": "and simulations",
+        "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "arrow": "./services/aw.svg",
+        "link": "./",
+        "image": "./services/hpc.png"
+    },
+    {
+        "id": 4,
+        "name1": "FEM simulations",
+        "name2": "for design optimisation",
+        "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/fem.png"
+    }
+]

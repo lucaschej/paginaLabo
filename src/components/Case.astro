@@ -1,0 +1,40 @@
+---
+import Container from "./Container.astro"
+import Topic from "./Topic.astro"
+---
+<Container>
+<div class="relative flex flex-col items-center md:flex-row" id="projects">
+    <Topic title="Case Studies" description="Previous research articles published in top scientific journals" />
+</div>
+
+<div class="w-full p-12 bg-zinc-900 rounded-[45px] justify-start items-start gap-16 inline-flex text-white">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-2 divide-x-0 md:divide-x divide-y md:divide-y-0">
+        <div class="flex-col items-start gap-5 inline-flex px-2 md:px-6 py-6 md:py-2">
+            <div class="w-full text-lg font-normal">Molecular Dynamics.</div>
+            <a href="https://iopscience.iop.org/article/10.1088/1742-5468/2016/08/083201" target="_blank" rel="noopener noreferrer" class="justify-start items-center gap-[15px] inline-flex">
+                <div class="text-lime text-xl font-normal leading-7">Learn more</div>
+                <img src="/services/agc.svg" alt="arrow">
+            </a>
+        </div>
+        <div class="flex-col items-start gap-5 inline-flex px-2 md:px-6 py-6 md:py-2">
+            <div class="w-full text-lg font-normal">Heat transfer.</div>
+            <a href="https://pubs.aip.org/aip/pof/article-abstract/36/8/082005/3308319/" target="_blank" rel="noopener noreferrer" class="justify-start items-center gap-[15px] inline-flex">
+                <div class="text-lime text-xl font-normal leading-7">Learn more</div>
+                <img src="/services/agc.svg" alt="arrow">
+            </a>
+        </div>
+        <div class="flex-col items-start gap-5 inline-flex px-2 md:px-6 py-6 md:py-2">
+            <div class="w-full text-lg font-normal">FEM.</div>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931023012553" target="_blank" rel="noopener noreferrer" class="justify-start items-center gap-[15px] inline-flex">
+                <div class="text-lime text-xl font-normal leading-7">Learn more</div>
+                <img src="/services/agc.svg" alt="arrow">
+            </a>
+        </div>
+    </div>
+    
+    <!-- <div class="w-[186px] h-[0px] origin-top-left rotate-90 border border-white"></div> -->
+    <!-- <div class="w-[186px] h-[0px] origin-top-left rotate-90 border border-white"></div> -->
+    
+</div>
+
+</Container>

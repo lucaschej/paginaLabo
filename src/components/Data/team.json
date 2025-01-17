@@ -1,0 +1,60 @@
+{
+    "team":
+    [
+        {
+            "title": "Lab Director",
+            "name": "Dr. Prof. Florencia Carusela",
+            "description": "PhD in Physics and Professor at the UNGS. Researcher at CONICET in the are of transport phenomena from nano to microscale.",
+            "profile": "/team/flor.jpg",
+            "link": "https://www.linkedin.com/in/florencia-carusela-b6583b2a6/"
+        },
+        {
+            "title": "Researcher",
+            "name": "Eng. Luciano Zurdo",
+            "description": "I am passionate about physics and coding. Working on heat transfer models and numerical simulations.",
+            "profile": "/team/luciano.jpeg",
+            "link": "https://www.linkedin.com/in/luis-luciano-zurdo/"
+        },
+        {
+            "title": "Researcher",
+            "name": "Eng. Lucas Chej",
+            "description": "Mechanical Engineer and PhD student in physics with +5 years of expertise in CAD/CAE techniques.",
+            "profile": "/team/lucas.jpeg",
+            "link": "https://www.linkedin.com/in/lucaschej/"
+        }
+
+    ],
+    "process":
+    [
+        {
+            "index": 1,
+            "label": "Consultation",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "index": 2,
+            "label": "Research",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "index": 3,
+            "label": "Implementation",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "index": 4,
+            "label": "Optimization",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "index": 5,
+            "label": "Reporting",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        },
+        {
+            "index": 6,
+            "label": "Improvement",
+            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+        }
+    ]
+}
